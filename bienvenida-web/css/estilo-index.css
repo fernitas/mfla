@@ -1,0 +1,41 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    padding: 15px;
+}
+
+header {
+    background-color: rgba(3, 112, 3, 0.932);
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+section {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#cajagris {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: gray;
+    font-size: 20px;
+}
+
+#cajaceleste {
+    background-color: rgb(27, 216, 207);
+    color: white;
+}
+
+a {
+    font-weight: bolder;
+    color: maroon;
+}
